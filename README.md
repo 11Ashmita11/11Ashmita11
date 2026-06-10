@@ -2,9 +2,10 @@
 
 🎓 B.Tech Information Technology Student at Banasthali Vidyapith
 
+Skills:
 
 
-🚀 Skills:
+
 
 🧠 Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,12 +24,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
--> Current Focus
+ FOCUS:
 - Data Structures & Algorithms
 - Full Stack Development
 - Open Source Contributions
 
--> Projects
+PROJECTS-
 - Resume Analyzer Web App
 - Portfolio Website
 - Spotify Clone
@@ -39,6 +40,6 @@ Connect with me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/11Ashmita11)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashmitapandey56)
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shoal_muse_03)
